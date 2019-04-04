@@ -1,8 +1,12 @@
 {
     "name": "mita-theme",
-    "displayName": "mita-theme",
+    "displayName": "Mita theme",
     "description": "un tema sencillo, pero que busca resaltar el codigo, dar tocas de belleza a vscode",
     "version": "0.0.1",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/drzioner/mita-theme.git"
+	},
     "engines": {
         "vscode": "^1.32.0"
     },
