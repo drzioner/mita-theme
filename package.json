@@ -1,0 +1,21 @@
+{
+    "name": "mita-theme",
+    "displayName": "mita-theme",
+    "description": "un tema sencillo, pero que busca resaltar el codigo, dar tocas de belleza a vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mita-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mita-theme-color-theme.json"
+            }
+        ]
+    }
+}
